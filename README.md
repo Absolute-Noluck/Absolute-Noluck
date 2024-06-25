@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kenny</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+ABOUT ME :muscle: 
+
 - 🌱 I’m currently learning **PHP and Drupal 10**
 
 - 📫 How to reach me **kenny.querolle@gmail.com**
